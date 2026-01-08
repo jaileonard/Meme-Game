@@ -1,5 +1,5 @@
-# Exam # 1: "Meme Game"
-## Student: s321351 LEON ARDYLA, JAIME 
+"Meme Game"
+
 
 ## React Client Application Routes
 
